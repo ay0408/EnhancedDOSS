@@ -1,6 +1,6 @@
 # Enhanced DOSS based on Improved DOLS
 
-This page contains the Python codes for our experiments (regarding TDT statistics and $\chi^2$-statisitcs based on a $3 \times 2$ contingency table) and the omitted proofs in the main paper.
+This page contains the Python codes for our experiments (regarding TDT statistics and $\chi^2$-statistics based on a $3 \times 2$ contingency table) and the omitted proofs in the main paper.
 
 In "distribution_evaluation" folder, the most advisable $(\alpha, \beta)$-admissible distributions for mechanisms using the enhanced DOSS were investigated.
 
