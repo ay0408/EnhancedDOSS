@@ -1,4 +1,4 @@
-# Enhanced DOSS based on Improved DOLS
+# Enhanced Direction-Oriented Smooth Sensitivity (DOSS) based on Improved Direction-Oriented Local Sensitivity (DOLS)
 
 This page contains the Python codes for our experiments (regarding TDT statistics and $\chi^2$-statistics based on a $3 \times 2$ contingency table) and the omitted proofs in the main paper.
 
@@ -12,9 +12,16 @@ The run time of our algorithm (Algorithm 1 in our paper) for computing the impro
 
 The full proofs of the theorems and lemmas in the main paper are provided in Proofs.pdf.
 
+## Future Directions
+・Constructing a novel DOLS concept that considers the privacy level of information associated with each dimension.
+
+・Developing better unbiased (and bounded) mechanisms with higher accuracy, potentially using approaches other than varying the probabilities for noise generation.
+
+・Applying the (idea of enhanced) DOSS to private selection tasks.
+
 ## Note
 
-For details of our methods and discussion, please see our paper entitled "Differentially Private Mechanisms Using Enhanced Direction-Oriented Smooth Sensitivity". (to appear at IEEE CCWC 2026)
+For details of our methods and discussion, please see our paper entitled "Differentially Private Mechanisms Using Enhanced Direction-Oriented Smooth Sensitivity" (to appear at IEEE CCWC 2026).
 
 ### Contact
 Akito Yamamoto
