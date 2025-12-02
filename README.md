@@ -14,7 +14,7 @@ The full proofs of the theorems and lemmas in the main paper are provided in Pro
 
 ## Note
 
-For details of our methods and discussion, please see our paper entitled "Differentially Private Mechanisms Using Enhanced Direction-Oriented Smooth Sensitivity".
+For details of our methods and discussion, please see our paper entitled "Differentially Private Mechanisms Using Enhanced Direction-Oriented Smooth Sensitivity". (to appear at IEEE CCWC 2026)
 
 ### Contact
 Akito Yamamoto
