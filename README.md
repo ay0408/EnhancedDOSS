@@ -23,6 +23,9 @@ The full proofs of the theorems and lemmas in the main paper are provided in Pro
 
 For details of our methods and discussion, please see our paper entitled "Differentially Private Mechanisms Using Enhanced Direction-Oriented Smooth Sensitivity" presented at IEEE CCWC 2026.
 
+Errata:  
+・The part following Definition 6, " $k > 1$ " → " $k \geq 2$ "
+
 ### Contact
 Akito Yamamoto
 
