@@ -21,7 +21,7 @@ The full proofs of the theorems and lemmas in the main paper are provided in Pro
 
 ## Note
 
-For details of our methods and discussion, please see our paper entitled "Differentially Private Mechanisms Using Enhanced Direction-Oriented Smooth Sensitivity" presented at IEEE CCWC 2026.  
+For details of our methods and discussion, please see our paper entitled "Differentially Private Mechanisms Using Enhanced Direction-Oriented Smooth Sensitivity" (https://doi.org/10.1109/CCWC67433.2026.11393770) presented at IEEE CCWC 2026.  
 (cf. [Direction-Oriented Smooth Sensitivity](https://github.com/ay0408/DOSS))
 
 Errata:  
