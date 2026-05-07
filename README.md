@@ -19,6 +19,8 @@ The full proofs of the theorems and lemmas in the main paper are provided in Pro
 
 ・Applying the (idea of enhanced) DOSS to private selection tasks.
 
+・Developing methods for handling dependencies between information in different dimensions.
+
 ## Note
 
 For details of our methods and discussion, please see our paper entitled "Differentially Private Mechanisms Using Enhanced Direction-Oriented Smooth Sensitivity" (https://doi.org/10.1109/CCWC67433.2026.11393770) presented at IEEE CCWC 2026.  
