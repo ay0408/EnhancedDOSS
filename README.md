@@ -27,7 +27,7 @@ For details of our methods and discussion, please see our paper entitled "Differ
 (cf. [Direction-Oriented Smooth Sensitivity](https://github.com/ay0408/DOSS))
 
 Errata:  
-・The part following Definition 6, " $k > 1$ " → " $k \geq 2$ "
+・The part following Definition 6, $\frac{\epsilon}{2(k - 1)}$ → $\min\left( \frac{\epsilon}{2(k - 1)}, \ \frac{\epsilon}{2} \right)$ 
 
 ### Contact
 Akito Yamamoto
